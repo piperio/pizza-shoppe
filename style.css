@@ -1,0 +1,24 @@
+body {
+  background-color:red;
+}
+
+h1{
+  color:white;
+  font-size:24px;
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+.header{
+  background-color:black;
+  padding-left:10px;
+  border: 1 px solid black;
+  
+}
+
+.footer {
+  background:green
+}
+
+div{
+  border: 1px solid black;
+}
